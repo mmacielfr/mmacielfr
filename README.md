@@ -4,8 +4,8 @@
 
 <div>
  <p>
-  📍 I'm a brazilian software developer currently based in São Paulo.<br/>
-  🗣️ My favorite hobby is to learn new languages, I already speak Portuguese, English and Japanese!<br/>
+  📍 I'm a brazilian software developer currently based in Czech Republic.<br/>
+  🗣️ My favorite hobbies are running and learning new languages, I already speak Portuguese, English and Japanese!<br/>
   💪 I've worked professionally as a software developer for almost 2 years.<br/>
   🧑‍💻 Coded my first line of code back in 2016!
  </p> 
