@@ -4,7 +4,7 @@
 
 <div>
  <p>
-  📍 I'm a brazilian software developer currently based in Czech Republic.<br/>
+  📍 I'm a brazilian software developer currently based in São Paulo.<br/>
   🗣️ My favorite hobbies are running and learning new languages, I already speak Portuguese, English and Japanese!<br/>
   💪 I've worked professionally as a software developer for almost 2 years.<br/>
   🧑‍💻 Coded my first line of code back in 2016!
@@ -19,9 +19,7 @@
  <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img align="center" alt="Matheus-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
  <img align="center" alt="Matheus-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
- <img align="center" alt="Matheus-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
  <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Matheus-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
  <img align="center" alt="Matheus-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
 
